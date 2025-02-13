@@ -1,6 +1,25 @@
-# 💫 About Me:
-🚀 Full Stack Web Developer | Backend Developer<br>📌 C# | .NET | ASP.NET Core | React | Node.js<br><br>Son bir yılda 1000 saatten fazla süren yoğun eğitimlerle Bahçeşehir Üniversitesi Wissen Akademi ve İstanbul Kalkınma Ajansı (Yetenek İstanbul) Full Stack Web Developer programlarını başarıyla tamamladım.<br><br>🔹 C#, .NET ve ASP.NET Core teknolojilerinde uzmanlaşırken,<br>🔹 React ve Node.js ile modern web uygulamaları geliştirme konusunda deneyim kazandım.<br><br>📂 Açık kaynak projelerimi ve geliştirdiğim uygulamaları GitHub üzerinden paylaşarak teknik becerilerimi sürekli olarak geliştiriyorum.<br><br>🎯 Kariyer Hedefim: Full Stack veya Backend Developer olarak çalışarak büyük ölçekli projelerde deneyim kazanmak ve uzun vadede Yazılım Mimarı olarak stratejik roller üstlenmek.
+# 🚀 Hakkımda  
+Merhaba! 👋 Ben **Botan Özalp**, yazılım dünyasına olan tutkusuyla kod yazmayı sanata dönüştüren bir **Full Stack Web Developer & Backend Developer**'ım.  
 
+🧑‍💻 **Kendimi Sürekli Geliştiriyorum!**  
+Teknolojiye olan ilgim ve öğrenmeye olan açlığımla **Bahçeşehir Üniversitesi Wissen Akademi & Yetenek İstanbul** Full Stack Web Developer programlarını başarıyla tamamladım.  
+Kod yazmayı sadece bir meslek olarak değil, **problem çözmenin sanatı** olarak görüyorum!  
+
+📜 **Sertifikalar ve Eğitimler:**  
+🎓 **Bau Bright & Wissen Academy** – **Full Stack Web Developer Sertifikası** (Toplamda 1150 saatlik eğitim)  
+🎓 **.NET, ASP.NET Core, C#’ta Derinleşme**  
+🎓 **React & Node.js ile Modern Web Geliştirme**  
+🎓 **SQL, MSSQL, MongoDB ve Veri Yönetimi**  
+
+🔥 **Deneyim ve Projeler**  
+- .NET ve React ekosistemlerinde geliştirdiğim projelerle **modern ve performanslı uygulamalar** üretiyorum.  
+- **Node.js ve Express.js** kullanarak ölçeklenebilir backend sistemleri geliştiriyorum.  
+- **GitHub'da aktifim!** Açık kaynak projeler ve blog yazılarıyla bilgimi paylaşmayı seviyorum.  
+
+🎨 **Neler Yapıyorum?**  
+🚀 Web uygulamaları geliştiriyor ve mimari tasarımlar yapıyorum.  
+⚡ API geliştirme ve entegrasyon süreçlerini yönetiyorum.  
+🛠 En iyi yazılım geliştirme uygulamalarını kullanarak performansı optimize ediyorum.  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/botanoz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/botanoz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/botanoz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:botanozalp@gmail.com) 
