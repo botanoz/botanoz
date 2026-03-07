@@ -1,25 +1,47 @@
 # 🚀 Hakkımda  
-Merhaba! 👋 Ben **Botan Özalp**, yazılım dünyasına olan tutkusuyla kod yazmayı sanata dönüştüren bir **Full Stack Web Developer & Backend Developer**'ım.  
+Merhaba! 👋 Ben **Botan Özalp**, **Full Stack Web Developer & Backend Developer** olarak farklı ölçeklerde yazılım projeleri geliştiren ve aynı zamanda teknoloji odaklı çözümler üreten bir şirketin kurucusuyum.  
 
-🧑‍💻 **Kendimi Sürekli Geliştiriyorum!**  
-Teknolojiye olan ilgim ve öğrenmeye olan açlığımla **Bahçeşehir Üniversitesi Wissen Akademi & Yetenek İstanbul** Full Stack Web Developer programlarını başarıyla tamamladım.  
-Kod yazmayı sadece bir meslek olarak değil, **problem çözmenin sanatı** olarak görüyorum!  
+Modern web teknolojilerini kullanarak **ölçeklenebilir, sürdürülebilir ve yüksek performanslı yazılım sistemleri** geliştirmeye odaklanıyorum. Özellikle **.NET, ASP.NET Core, C#, React ve Node.js** ekosistemlerinde kurumsal uygulamalar, API servisleri ve entegrasyon altyapıları üzerine çalışıyorum.  
 
-📜 **Sertifikalar ve Eğitimler:**  
-🎓 **Bau Bright & Wissen Academy** – **Full Stack Web Developer Sertifikası** (Toplamda 1150 saatlik eğitim)  
-🎓 **.NET, ASP.NET Core, C#’ta Derinleşme**  
+Yazılım geliştirme süreçlerinde yalnızca teknik geliştirme değil; aynı zamanda **sistem mimarisi, iş süreçlerinin dijitalleştirilmesi ve verimli yazılım altyapılarının oluşturulması** konularında da aktif rol alıyorum.
+
+---
+
+🧑‍💻 **Uzmanlık Alanları**
+
+- Kurumsal **Web Uygulamaları ve Platform Geliştirme**
+- **Backend Sistemleri ve API Tasarımı**
+- **Microservice ve Modüler Yazılım Mimarileri**
+- **Veri Yönetimi ve Entegrasyon Sistemleri**
+- **Performans ve Ölçeklenebilirlik Odaklı Yazılım Geliştirme**
+
+---
+
+📜 **Eğitim ve Sertifikalar**
+
+🎓 **Bau Bright & Wissen Academy** – **Full Stack Web Developer Sertifikası** *(1150 saat kapsamlı yazılım eğitimi)*  
+🎓 **.NET, ASP.NET Core ve C# ile Kurumsal Uygulama Geliştirme**  
 🎓 **React & Node.js ile Modern Web Geliştirme**  
-🎓 **SQL, MSSQL, MongoDB ve Veri Yönetimi**  
+🎓 **SQL, MSSQL, MongoDB ve Veri Yönetimi**
 
-🔥 **Deneyim ve Projeler**  
-- .NET ve React ekosistemlerinde geliştirdiğim projelerle **modern ve performanslı uygulamalar** üretiyorum.  
-- **Node.js ve Express.js** kullanarak ölçeklenebilir backend sistemleri geliştiriyorum.  
-- **GitHub'da aktifim!** Açık kaynak projeler ve blog yazılarıyla bilgimi paylaşmayı seviyorum.  
+---
 
-🎨 **Neler Yapıyorum?**  
-🚀 Web uygulamaları geliştiriyor ve mimari tasarımlar yapıyorum.  
-⚡ API geliştirme ve entegrasyon süreçlerini yönetiyorum.  
-🛠 En iyi yazılım geliştirme uygulamalarını kullanarak performansı optimize ediyorum.  
+🔥 **Deneyim**
+
+- .NET ve React ekosistemlerinde **modern ve performanslı uygulamalar** geliştirme  
+- **Node.js ve Express.js** ile ölçeklenebilir backend servisleri tasarlama  
+- API geliştirme, veri yönetimi ve sistem entegrasyonları  
+- Farklı sektörlere yönelik yazılım projelerinde **analiz, geliştirme ve uygulama süreçlerinde aktif rol alma**
+
+---
+
+🎨 **Çalışma Alanlarım**
+
+🚀 Web uygulamaları ve yazılım platformları geliştiriyorum  
+⚡ API servisleri ve entegrasyon altyapıları tasarlıyorum  
+🛠 Modern yazılım mimarileri ile sürdürülebilir sistemler oluşturuyorum  
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/botanoz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/botanoz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/botanoz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:botanozalp@gmail.com) 
