@@ -43,11 +43,6 @@ PostgreSQL · Microsoft SQL Server · MongoDB · Redis
 **Altyapı & Araçlar**  
 Docker · Linux · Nginx · Git · GitHub
 
-### Eğitim
-
-**BAU Bright & Wissen Akademie**  
-Full Stack Web Development · 1.150 saatlik kapsamlı yazılım eğitimi
-
 ---
 
 <div align="center">
